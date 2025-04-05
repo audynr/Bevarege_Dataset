@@ -1,5 +1,15 @@
 # Bevarege_Dataset
 
+## Sebelum Memulai
+
+Sebelum menjalankan kode dalam proyek ini, pastikan Anda telah menginstal semua library yang diperlukan dengan menjalankan perintah berikut:
+
+```sh
+pip install pandas numpy matplotlib seaborn scikit-learn kmodes
+```
+
+---
+
 ## Overview
 
 This dataset simulates **realistic sales patterns** in the beverage industry, highlighting important factors such as **regional preferences**, **seasonal fluctuations**, and **customer segmentation**. It covers both **Business-to-Business (B2B)** and **Business-to-Consumer (B2C)** transactions, making it versatile for various analytical projects—ranging from **sales forecasting** to **customer behavior analysis**.
@@ -119,4 +129,3 @@ We appreciate any **feedback**, **questions**, or **suggestions** to help us imp
 ---
 
 **Thank you** for using this dataset! We hope it serves as a helpful resource for your projects and encourages deeper exploration into the dynamics of the beverage industry.
-
